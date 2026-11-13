@@ -35,7 +35,7 @@ Install [Node.js](https://nodejs.org/) (which includes npm).
 2. Navigate to the project directory:
 
    ```bash
-   cd https://github.com/StefanIT10/quiz-app.git
+   cd quiz-app
    ```
 
 3. Install dependencies:
